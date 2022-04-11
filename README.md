@@ -1,3 +1,4 @@
+![License](https://img.shields.io/github/license/armin3731/java_link_shorten)
 # Javascript Full-Stack Link Shortening
 This Project is a single-page website that can handle shortening long URLs in Javascript.
 _*Backend*_ is developed using __node.js__ and __express__ API. On the other hand, __Vue.js__ handles the _*Frontend*_ side. Other details of the project are listed below:
